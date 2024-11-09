@@ -3,7 +3,7 @@
 To find the most demanded skills for the top 3 most popular data roles
 View my notebook with detailed steps here: [2_Skill_Demand.ipynb](3_project/2_Skill_Demand.ipynb)
 
-###Visualize Data
+### Visualize Data
 ```python
 fig, ax = plt.subplots(len(job_titles), 1)
 sns.set_theme(style='ticks')
